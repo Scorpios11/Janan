@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Health Monitor for Elderly Patients",
+  "description": "An elite Remote Patient Monitoring (RPM) platform for elderly and chronic patients with an Adaptive Baseline engine, real-time alerts, and clinical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
